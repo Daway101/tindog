@@ -20,4 +20,4 @@ Deployed Website: https://daway101.github.io/tindog/
 
 ## Acknowledgments
 
-  * The Complete 2020 Web Development Bootcamp by Angela Yu
+  * The Complete 2022 Web Development Bootcamp by Angela Yu
